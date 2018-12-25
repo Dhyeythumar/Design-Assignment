@@ -1,0 +1,41 @@
+body.color{
+	background-color: #D0F8F8; 
+	font-family: 'Cormorant Unicase', serif;
+	font-weight: bold;
+}
+div.size{
+	font-size: 24px;
+	width: 119px;
+	height: 47px;
+	letter-spacing: 5%;
+	text-align: center;
+}
+div.oops{
+	width:165px; 
+	height:71px;
+	margin-left:279px;
+	margin-top:-20px;
+	font-size: 48px;
+	text-align: center;
+
+}
+div.video{
+	border-radius: 20px;
+	width: 976px;
+	height: 544px;
+	margin-left:279px;
+	margin-top:0px;
+	background-color: #000000;
+	
+}	
+#left{
+	margin-left: 279px;
+	margin-top: 10px;
+	float: left;
+	color: black;
+}
+#right{
+	margin-left: 1082px;
+	margin-top: 10px;
+	color: #000000;
+}
